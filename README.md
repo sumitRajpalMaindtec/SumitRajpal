@@ -68,16 +68,16 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SumiRajpal&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumiRajpal&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SumitRajpal&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitRajpal&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumiRajpal&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="Streak Stats"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitRajpal&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumiRajpal&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitRajpal&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" width="90%"/>
 </div>
 
 ---
@@ -85,19 +85,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SumiRajpal&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumiRajpal/SumiRajpal/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumiRajpal/SumiRajpal/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SumiRajpal/SumiRajpal/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=SumitRajpal&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -105,16 +93,26 @@ const developer = {
 ## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/SumiRajpal/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumiRajpal&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/SumitRajpal/xrp-faucet-extension">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumitRajpal&repo=xrp-faucet-extension&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
   </a>
-  <a href="https://github.com/SumiRajpal/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumiRajpal&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/SumitRajpal/React-Flow-QuickStart">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumitRajpal&repo=React-Flow-QuickStart&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/SumitRajpal/threejs-nextjs-quickstart">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumitRajpal&repo=threejs-nextjs-quickstart&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+  </a>
+  <a href="https://github.com/SumitRajpal/ngx-github-contributors">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumitRajpal&repo=ngx-github-contributors&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
   </a>
 </div>
 
 ---
-
 ## 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
